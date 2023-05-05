@@ -1,5 +1,5 @@
 <template>
     <div>
-        Hi, Welcome to Home Page
+        Hi this is Register Page
     </div>
 </template>
